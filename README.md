@@ -19,7 +19,7 @@ All game files are in Content folder, look for the main executable(.exe) inside 
 By comparing the dates we should know when is the .exe downloaded, then follow the corresponding guide:
 
 
-### If .exe is downloaded in the start
+## If .exe is downloaded in the start
 
 The easiest one, simply start downloading on the other pc until the .exe is downloaded (make sure it's completele downloaded as the file is created before it's fully downloaded).
 
@@ -31,7 +31,7 @@ Resume the download and the game should be downloaded.
 
 if download fails at 100%, this normal just resume once more, if it still fails go to the root folder of the current drive you will find a folder called WpSystem, rename it to WpSystem.old (there is save date inside return them after download is complete).
 
-### If .exe is not downloaded at start
+## If .exe is not downloaded at start
 
 If the game is already downloaded it's too late, this needs to be done before it's downloaded.
 
@@ -43,7 +43,7 @@ if the .exe is downloaded at an earlier time, we will also need the .xvi file fr
 
 ![Screenshot 2023-04-08 221309](https://user-images.githubusercontent.com/88838071/230741880-8d41a4b8-cdda-49f6-9884-7ae69f5c815f.png)
 
-Download and run the python script.
+[Download and run the python script](https://github.com/MoazSalem/Timed_Backup/releases/download/v1.0/backup.exe)
 
 ![Screenshot 2023-04-08 223737](https://user-images.githubusercontent.com/88838071/230741631-b7fb9c41-c912-4a29-9efd-a356b4060137.png)
 
